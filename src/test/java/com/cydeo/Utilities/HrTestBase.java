@@ -7,7 +7,7 @@ public class HrTestBase {
 
     @BeforeAll
     public static void init(){
-        baseURI= "http://44.211.151.143:1000/ords/hr";
+        baseURI= "http://3.87.228.6:1000/ords/hr";
 
     }
 }
